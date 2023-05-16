@@ -21,10 +21,6 @@ module.exports = {
         polygon_mumbai: {
             url: RPC_URL,
             accounts: [PRIVATE_KEY],
-            chainId: 80001,
-            blockConfirmations: 6,
-            gas: 210000000,
-            gasPrice: 800000000000,
         },
     },
 }

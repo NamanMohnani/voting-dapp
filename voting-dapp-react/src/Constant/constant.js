@@ -1,4 +1,5 @@
-const contract_address = "0xD126B06026c4927F3913588bAB107AD0E9fA7a8D"
+const contract_address = "0x458257C56f9055f7f0B55580b7Ca072a6EAD7BAb"
+// change this every time you run, get new address from - yarn hardhat run scripts/deploy.js --network polygon_mumbai
 
 /**
  * contract address -  0xD126B06026c4927F3913588bAB107AD0E9fA7a8D

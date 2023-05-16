@@ -143,7 +143,7 @@ export function App() {
                     <Login connectWallet={connect_to_metamask} />
                 )
             ) : (
-                <p></p>
+                <Finished> the voting time is over </Finished>
             )}
         </div>
     )

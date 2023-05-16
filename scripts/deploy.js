@@ -13,6 +13,7 @@ async function main() {
         ["candidate 1", "candidate 2", "candidate 3", "candidate 4", "candidate 5"],
         90
     )
+
     console.log("contract address: ", _voting.address)
 }
 
