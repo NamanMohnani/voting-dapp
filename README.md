@@ -18,3 +18,5 @@ polygon mumbai was used as a testnet
 ## feedbacks and review are most welcomed !
 
 here is a glimpse:
+![Screenshot (3)](https://github.com/NamanMohnani/voting-dapp/assets/110343547/4f71b0be-8786-47a1-90b5-2da605382ea0)
+
